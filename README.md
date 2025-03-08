@@ -6,7 +6,7 @@ This project provides a React component for integrating a chatbot powered by Gem
 
 To install the package, run:
 
-### `npm i react-gemini-ai-chatbot`
+### `npm i react-gemini-ai-bot`
 
 ## Setup
 
@@ -14,7 +14,7 @@ In your React app, import and use the `Chatbot` component:
 
 ```jsx
 import React from "react";
-import { Chatbot } from "react-gemini-ai-chatbot/dist/index";
+import { Chatbot } from "react-gemini-ai-bot/dist/index";
 
 export default function App() {
   const apiKey = "YOUR_API_KEY"; // Replace with your actual API key
@@ -45,4 +45,4 @@ Ensure that your project meets the required compatibility:
 
 ## License
 
-This project is licensed under MIT.
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
